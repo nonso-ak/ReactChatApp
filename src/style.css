@@ -7,8 +7,8 @@
   
   body {
     background-color: rgba(2, 17, 24, 0.815);
-    padding: 20px 10px;
-/*     min-height: 100vh; */
+    padding: 20px;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -188,8 +188,10 @@
   @media (max-width: 768px) {
     .message-example {
       max-width: 85%;
-        padding: 10px 10px;
     }
+      .chat-app{
+          padding: 20px 10px;
+          height: 80%;
   }
   
  
