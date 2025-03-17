@@ -188,6 +188,7 @@
   @media (max-width: 768px) {
     .message-example {
       max-width: 85%;
+        padding: 10px;
     }
   }
   
