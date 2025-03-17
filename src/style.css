@@ -8,7 +8,7 @@
   body {
     background-color: rgba(2, 17, 24, 0.815);
     padding: 20px;
-    min-height: 100vh;
+/*     min-height: 100vh; */
     display: flex;
     justify-content: center;
     align-items: center;
